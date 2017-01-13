@@ -1,0 +1,8 @@
+E:\visual studio 2010\Projects\YouGet\YouGet\bin\Debug\YouGet.exe
+E:\visual studio 2010\Projects\YouGet\YouGet\bin\Debug\YouGet.pdb
+E:\visual studio 2010\Projects\YouGet\YouGet\obj\x86\Debug\YouGet.Form1.resources
+E:\visual studio 2010\Projects\YouGet\YouGet\obj\x86\Debug\YouGet.Properties.Resources.resources
+E:\visual studio 2010\Projects\YouGet\YouGet\obj\x86\Debug\YouGet.csproj.GenerateResource.Cache
+E:\visual studio 2010\Projects\YouGet\YouGet\obj\x86\Debug\YouGet.exe
+E:\visual studio 2010\Projects\YouGet\YouGet\obj\x86\Debug\YouGet.pdb
+E:\visual studio 2010\Projects\YouGet\YouGet\obj\x86\Debug\YouGet.csprojResolveAssemblyReference.cache
