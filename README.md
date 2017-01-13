@@ -1,6 +1,4 @@
-# You-Get-Tool
-You-Get小工具
-=======
+
 ##使用帮助  [简单演示](http://www.bilibili.com/video/av7997075/)
 * 下载 `You-Get` [@You-Get Releases](https://github.com/soimort/you-get/releases)
 * 下载 `VLC` [@videolan.org](http://www.videolan.org/)
@@ -100,4 +98,3 @@ HKEY_CLASSES_ROOT
 对 MacBook 来说,收益更大.也希望这个小软件给大家提了个小思路.
 
 最后,估计不会进行任何维护,代码量实在太少了,任何人瞥一眼就可以自己写一份了.
->>>>>>> f
