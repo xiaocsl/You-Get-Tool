@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # You-Get-Tool
 You-Get小工具
 =======
